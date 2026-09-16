@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anshul 👋
 
-<!--
-**anshulfarswan9-arch/anshulfarswan9-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anime Hello](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anime Coding](https://media.giphy.com/media/xyz456/giphy.gif)
+
+## 🎨 Fun Zone
+![Anime Dance](https://media.giphy.com/media/xyz789/giphy.gif)
+
+## 🎉 Celebration
+![Anime Party](https://media.giphy.com/media/xyz101/giphy.gif)
+
+## ✨ Animated Intro
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Anshul's+Anime+GitHub!;Cartoons+and+Code+Together!" />
