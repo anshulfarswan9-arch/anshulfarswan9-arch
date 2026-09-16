@@ -8,5 +8,4 @@
 
 ![Anime Coding](https://media.giphy.com/media/xyz456/giphy.gif)
 
-## ✨ Animated Intro
-<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Anshul's+GitHub!;Cartoons+and+Code+Together!" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Anshul's+GitHub!" />
