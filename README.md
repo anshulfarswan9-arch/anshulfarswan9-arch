@@ -15,4 +15,4 @@
 ![Anime Party](https://media.giphy.com/media/xyz101/giphy.gif)
 
 ## ✨ Animated Intro
-<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Anshul's+Anime+GitHub!;Cartoons+and+Code+Together!" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Anshul's+GitHub!;Cartoons+and+Code+Together!" />
